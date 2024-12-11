@@ -1,3 +1,3 @@
-Hello, i'm Maxime 👋
+Hello, I'm Maxime 👋
 
 A free software enthusiast!
