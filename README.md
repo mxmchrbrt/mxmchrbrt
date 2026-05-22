@@ -1,3 +1,3 @@
 Hello, I'm Maxime 👋
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mxmchrbrt&theme=default&show_icons=true&hide_border=true&layout=compact)
+![My GitHub stats](https://ghstats.dev/api/card?username=mxmchrbrt)
